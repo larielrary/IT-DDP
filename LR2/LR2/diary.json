@@ -1,0 +1,55 @@
+{
+  "diarynote": [
+    {
+      "id": 2,
+      "date": "2020-10-01T00:00:00",
+      "pressure": 740,
+      "cloudness": 1,
+      "windDirection": "North-West"
+    },
+    {
+      "id": 4,
+      "date": "2019-03-15T00:00:00",
+      "pressure": 745,
+      "cloudness": 3,
+      "windDirection": "North"
+    },
+    {
+      "id": 3,
+      "date": "2020-09-02T00:00:00",
+      "pressure": 750,
+      "cloudness": 1,
+      "windDirection": "East"
+    },
+    {
+      "id": 5,
+      "date": "2019-12-11T00:00:00",
+      "pressure": 750,
+      "cloudness": 3,
+      "windDirection": "West"
+    }
+  ],
+  "diaryNote": [
+    {
+      "id": 0,
+      "date": "2020-09-11T00:00:00",
+      "pressure": 700,
+      "cloudness": 2,
+      "windDirection": "East"
+    },
+    {
+      "id": 1,
+      "date": "2015-06-25T00:00:00",
+      "pressure": 760,
+      "cloudness": 3,
+      "windDirection": "North-West"
+    },
+    {
+      "id": 2,
+      "date": "2020-03-12T00:00:00",
+      "pressure": 745,
+      "cloudness": 3,
+      "windDirection": "West"
+    }
+  ]
+}
